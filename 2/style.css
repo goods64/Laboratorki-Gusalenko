@@ -1,0 +1,20 @@
+html, body{
+    width: 100%;
+    height: 100%;
+}
+#Header{
+    width: 100%;
+    height: 15%;
+}
+#Left{
+    width: 24%;
+    height: 75%;
+}
+#Right{
+    width: 75%;
+    height: 75%;
+}
+#Bottom{
+    width: 100%;
+    height: 10%;
+}
